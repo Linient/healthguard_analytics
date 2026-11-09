@@ -1,0 +1,13 @@
+patient_id,name,age,gender,systolic_bp,diastolic_bp,fasting_glucose,bmi,cholesterol
+PT001,Amina Namatovu,52,F,145,95,7.2,28.4,5.8
+PT002,John Baptist Kato,34,M,118,76,5.1,23.1,4.2
+PT003,Grace Akello,64,F,168,102,11.5,32.1,6.8
+PT004,David Mukasa,41,M,124,82,5.4,26.0,4.9
+PT005,Sarah Nabirye,58,F,138,88,6.8,29.5,5.4
+PT006,Peter Ochieng,29,M,112,74,4.8,21.5,3.9
+PT007,Florence Tumusiime,67,F,182,110,8.4,31.0,6.5
+PT008,Emmanuel Ssebaggala,48,M,132,84,6.1,27.2,5.1
+PT009,Joan Kyomugisha,72,F,150,92,12.0,33.5,7.1
+PT010,Brian Kaggwa,38,M,120,78,5.2,24.0,4.5
+PT011,Invalid Patient BloodPressure,45,M,80,95,5.5,24.0,4.5
+PT012,Invalid Patient Glucose,50,F,120,80,45.0,26.0,5.0
